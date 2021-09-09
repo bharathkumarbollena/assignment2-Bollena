@@ -40,3 +40,11 @@ Its my dream to eat there rides in Las Vegas
 
 ---
 
+### Incredible quotes by some genius people
+
+> “Live as if you were to die tomorrow. Learn as if you were to live forever.” – *Mahatma Gandhi*<Br>
+> “That which does not kill us makes us stronger.” – *Friedrich Nietzsche*
+
+---
+
+
