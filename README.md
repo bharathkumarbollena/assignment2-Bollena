@@ -11,6 +11,8 @@ As a student planning to study in a foreign country, we always look-up for the b
    1. From Las vegas airport , book a cab 
    2. Then go visit the Hoover Dam
 
+--- 
+
 ### Things to carry to Las vegas
 * Travel bags
 * Clothing
@@ -19,8 +21,22 @@ As a student planning to study in a foreign country, we always look-up for the b
 * Camera
 * Shoes
 
+---
+
 **[About Me](AboutMe.md)**
 
 ---
 
+### Food / Drinks i want to eat in Las vegas are
+
+Its my dream to eat there rides in Las Vegas
+
+| Food \ Drinks | Street | Price range |
+| --- | --- | --- |
+| Unique eats | 2000 Las Vegas Blvd S | 200$ |
+| Rum and Coke | Las Vegas Amusement park | 50$ |
+| Vodka cranberry | Las vegas Amusement park | 100$ |
+| Vodka Tonic | Spring valley | 30$ |
+
+---
 
