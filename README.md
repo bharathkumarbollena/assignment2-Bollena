@@ -16,6 +16,6 @@ As a student planning to study in a foreign country, we always look-up for the b
 * Clothing
   * T-shirts
   * shorts & Trackpants
-*Camera
-*Shoes
+* Camera
+* Shoes
 
